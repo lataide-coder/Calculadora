@@ -1,0 +1,31 @@
+body { background-color:rgb(179, 154, 202);
+font: normal 18pt arial;
+}
+h2 {
+    font: normal 20pt arial;
+    margin-left: 20px;
+}
+input {
+    font: normal 18pt arial;
+    width: 200px;
+}
+div#res {
+    font: bold 18pt times new roman;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+div#sub {
+    font: bold 18pt times new roman;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+div#mult {
+    font: bold 18pt times new roman;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+div#div {
+    font: bold 18pt times new roman;
+    margin-top: 20px;
+    margin-left: 20px;
+}
